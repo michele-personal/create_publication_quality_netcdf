@@ -1,7 +1,7 @@
 # NetCDF Why and How: Creating Publication Quality NetCDF
 Demonstrations from the NASA Earthdata webinar presented by ORNL DAAC in September 2019.
 
-**Author:** ORNL DAAC       
+**Author:** Michele Thornton:  ORNL DAAC       
 **Date:** September 4, 2019       
 **Contact for the ORNL DAAC:** support-ornl.gov@earthdata.nasa.gov       
 
